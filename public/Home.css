@@ -1,0 +1,7 @@
+input{
+    /* display: flex; */
+    height: 30px;
+    width: 300px;
+    align-items: center;
+    /* text-align: center; */
+}
